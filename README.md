@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Marcelo-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielgregorio136@gmail.com)](mailto:gabrielgregorio136@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Marcelo-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcel0_sous4/?hl=pt-br)](https://www.instagram.com/gabrielg136/?hl=pt-br)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Marcel0Sousa&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gabreilg159&show_icons=true&theme=dracula)
 
 ### Seja bem vindo ao meu repositório! 👋 Aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência na área de T.I. 🏆
 
