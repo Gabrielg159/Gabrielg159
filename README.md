@@ -5,7 +5,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gabrielg159&show_icons=true&theme=dracula)
 
-### Seja bem vindo ao meu repositório! 👋 Aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência na área de T.I. 🏆
+### Seja bem vindo ao meu repositório! 👋 Aqui ficam reunidos a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência na área de T.I. 🏆
 
 ### 💼 Trabalho com
 ![Android](https://img.shields.io/badge/-Android-32DE84?style=flat-square&logo=android&logoColor=white)
