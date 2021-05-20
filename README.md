@@ -1,5 +1,5 @@
 # :man_technologist: Gabriel Gregorio
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcel0sousa/)](https://www.linkedin.com/in/marcel0sousa/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielg159/)](https://www.linkedin.com/in/gabrielg159/)
 [![Gmail Badge](https://img.shields.io/badge/-Gabriel-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielgregorio136@gmail.com)](mailto:gabrielgregorio136@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Gabriel-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabrielg159/?hl=pt-br)](https://www.instagram.com/gabrielg136/?hl=pt-br)
 
